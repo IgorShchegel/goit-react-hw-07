@@ -1,0 +1,27 @@
+.listItem {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 5px;
+    width: 210px;
+}
+
+.buttonDlt {
+    padding: 0;
+    border: 1px solid black;
+    border-radius: 2px;
+    width: 70px;
+    height: 20px;
+    margin-top: 29px;
+    background-color: rgb(224, 223, 223);
+}
+
+.text {
+    font-size: 12px;
+}
+
+.contactBox {
+
+    max-width: 135px;
+}
